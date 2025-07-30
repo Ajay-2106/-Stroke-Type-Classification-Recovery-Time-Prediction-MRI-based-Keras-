@@ -1,4 +1,4 @@
-# 🧠 Stroke Classification & Recovery Time Prediction from MRI  
+# 🧠 LabVIEW and Python integration code (LabVIEW Python node) 
 **Deep Learning-Based System for Stroke Type Detection & Outcome Estimation**
 
 This Python module uses pre-trained CNN models to analyze MRI images, classify stroke type (Normal, Ischemic, Haemorrhagic), and estimate the recovery time in months for stroke-affected cases. Designed to integrate seamlessly with LabVIEW-based medical systems or standalone prediction tools.
